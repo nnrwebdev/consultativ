@@ -27,9 +27,9 @@
             </div>
             <div class="col-lg-8 text-right py-2 text-center text-lg-right">
               <ul class="list-inline mb-0">
-                <li class="list-inline-item"><a class="font-weight-normal text-small reset-anchor" href="#"><i class="fa fa-phone mr-2" style="transform: rotate(90deg);"></i>+535 421 895 6523</a></li>
+                <li class="list-inline-item"><a class="font-weight-normal text-small reset-anchor" href="#"><i class="fa fa-phone mr-2" style="transform: rotate(90deg);"></i>+91 7981192240</a></li>
                 <li class="list-inline-item">|</li>
-                <li class="list-inline-item"><a class="font-weight-normal text-small reset-anchor" href="#"><i class="fas fa-envelope mr-2"></i>Construction@example.com</a></li>
+                <li class="list-inline-item"><a class="font-weight-normal text-small reset-anchor" href="#"><i class="fas fa-envelope mr-2"></i>info@personnellab.in</a></li>
               </ul>
             </div>
           </div>

@@ -58,9 +58,9 @@
             </div>
             <div class="col-lg-3 col-md-6 animated wow fadeInUp">
               <h5 class="mt-3 mb-4">CONTACT INFO</h5>
-               <p class="mb-1"><i class="fas fa-envelope mr-3 text-primary fa-fw"></i><span class="">info@Construction.com</span></p>
-              <p class="mb-1"><i class="fa fa-phone mr-3 text-primary fa-fw" style="transform: rotate(90deg);"></i> <span class="">+535 421 895 6523</span></p>
-              <p class="mb-1" style="display: flex;align-items: baseline;"><i class="fas fa-map-marker-alt mr-3 text-primary fa-fw"></i><span class="">1798 Pretty View Lane, California, Akshya Nagar 1st Block 1st Cross, Rammurthy nagar, Bangalore-560016</span></p>
+               <p class="mb-1"><i class="fas fa-envelope mr-3 text-primary fa-fw"></i><span class="">info@personnellab.in</span></p>
+              <p class="mb-1"><i class="fa fa-phone mr-3 text-primary fa-fw" style="transform: rotate(90deg);"></i> <span class="">+91 7981192240</span></p>
+              <p class="mb-1" style="display: flex;align-items: baseline;"><i class="fas fa-map-marker-alt mr-3 text-primary fa-fw"></i><span class="">Khairtabad, Hyderabad-500004</span></p>
             </div>
           </div>
         </div>
