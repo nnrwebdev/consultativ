@@ -32,7 +32,7 @@
       <div class="bg_1 text-white">
         <div class="container">
           <div class="row py-5">
-            <div class="col-lg-4 col-md-6 animated wow fadeInUp" style="padding-right: 50px;"><img class="mb-4" src="img/logo-white.svg" alt="" width="200">
+            <div class="col-lg-4 col-md-6 animated wow fadeInUp" style="padding-right: 50px;"><img class="mb-4" src="img/sample-logow.png"html alt="" width="200">
               <p class="mb-4">orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.</p>
             
             </div>

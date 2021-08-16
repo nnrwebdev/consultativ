@@ -45,8 +45,7 @@
               <li class="nav-item mx-2"><a class="nav-link text-uppercase" href="#">Our Services</a></li>
               <li class="nav-item ml-2 dropdown"><a class="nav-link text-uppercase  pr-0" id="navbarDropdownMenuLink" href="#">Our Industry Reach</a></li>
               <li class="nav-item ml-2 dropdown"><a class="nav-link text-uppercase  pr-0" id="navbarDropdownMenuLink" href="#">Contact Us</a></li>
-              <li class="nav-item ml-lg-3 pl-lg-3"><a class="btn btn-outline-primary btn-sm" href="contact.html">JOB'S</a></li>
-              <!--<li class="nav-item ml-lg-3 pl-lg-3"><a class="btn btn-outline-primary btn-sm" href="contact.html">Request a quote</a></li>-->
+              <li class="nav-item ml-lg-3 pl-lg-3"><a class="btn btn-outline-primary btn-sm" href="">JOB'S</a></li>
             </ul>
           </div>
         </div>
